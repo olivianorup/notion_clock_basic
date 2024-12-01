@@ -17,20 +17,10 @@ body {
     justify-content: center;
 }
 
-#week {
-    border: 3px solid #2c2c2c;
-}
-
-#date {
-    border-top: 3px solid #2c2c2c;
-    border-bottom: 3px solid #2c2c2c;
-}
-
 #clock {
     height: auto;
     width: 200px;
     text-align: center;
-    border: 3px solid #2c2c2c;
 }
 
 h1 {
