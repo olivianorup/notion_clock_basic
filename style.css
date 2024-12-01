@@ -17,15 +17,34 @@ body {
     justify-content: center;
 }
 
+#week spacer {
+    margin-right: 4px;
+}
+
+#date spacer {
+    margin-right: 4px;
+}
+
 #clock {
-    height: auto;
-    width: 200px;
+    padding: 0 5px;
+}
+
+#clock span {
+    display: inline-block;
     text-align: center;
+    width: 45px;
+}
+
+#clock spacer {
+    display: inline-block;
+    text-align: center;
+    margin: 0 5px;
 }
 
 h1 {
-    font-size: 38px;
+    font-size: 30px;
+    text-align: center;
     text-transform: uppercase;
     color: #d4d4d4;
-    padding: 25px;
+    padding: 0 15px;
 }
