@@ -15,6 +15,7 @@ body {
 .wrap {
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 #week spacer {
@@ -26,7 +27,7 @@ body {
 }
 
 #clock {
-    padding: 0 5px;
+    padding: 0 15px;
 }
 
 #clock span {
@@ -38,13 +39,13 @@ body {
 #clock spacer {
     display: inline-block;
     text-align: center;
-    margin: 0 5px;
+    margin: 0 10px;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     text-transform: uppercase;
     color: #d4d4d4;
-    padding: 0 15px;
+    padding: 0 20px;
 }
