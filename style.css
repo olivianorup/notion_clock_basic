@@ -33,7 +33,7 @@ body {
 #clock span {
     display: inline-block;
     text-align: center;
-    width: 45px;
+    width: 75px;
 }
 
 #clock spacer {
@@ -47,5 +47,5 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     color: #d4d4d4;
-    padding: 0 20px;
+    padding: 0 25px;
 }
